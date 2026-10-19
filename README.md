@@ -7,5 +7,7 @@ Python must be installed and accessible from anywhere in the computer.
 - create input and output folders
 - add paths to input and output to files mentioned
 
-- There is webp to jpg converter and other formats to webp converter both works in bulk
+# Two bulk file converters
+- webp to other formarts converter which uses dwebp
+- other formats to webp converter which uses cwebp
   
